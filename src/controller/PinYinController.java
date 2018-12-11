@@ -7,6 +7,7 @@ public class PinYinController {
         String[] cStrHY = PinyinHelper.toHanyuPinyinStringArray(cStr);
         for (String s : cStrHY) {
             System.out.println("pinyin  " + s);
+
         }
     }
 }
