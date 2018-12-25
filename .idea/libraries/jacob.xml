@@ -1,8 +1,8 @@
 <component name="libraryTable">
-  <library name="doc">
+  <library name="jacob">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../IDEAworkspace/jars/lib/pinyin4j-2.5.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/../IDEAworkspace/jars/jacob.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IDEAworkspace/jars/pinyin4j-2.5.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
